@@ -2,8 +2,13 @@
 
 The primary goal was to develop an intelligent tool simplifying the search for data science jobs. This involved utilizing web scraping to gather job listings from the TimesJobs website, extracting crucial details, and presenting insights through visualizations. The overall objective was to aid individuals in navigating the data science job market while keeping professionals, job seekers, and recruiters informed about industry trends.
 
-The journey initiated with web scraping, extracting relevant information such as job title, company, skills required, posting time, location, and salary. The extracted data was organized into a DataFrame using the pandas library, providing a structured format for analysis.
+**Web Scraping:**
+The project began with web scraping job listings from the TimesJobs website. The Python code utilized the BeautifulSoup library to extract relevant details from the job listings, including job title, company name, skills required, posting time, location, and salary. The scraping process involved iterating through multiple pages of job listings, refining the extraction process, and handling diverse data structures on the website.
 
+**Data Cleaning and Transformation:**
+Following data extraction, the code applied techniques like strip() and replace() to organize the data systematically using the pandas library. Custom functions ensured a clean extraction of salary information, handling variations like 'Lacs,' and refining experience data for consistency. The extracted data was organized into a DataFrame using the pandas library, providing a structured format for analysis.
+
+**Visualization/EDA (Exploratory Data Analysis):**
 Various visualizations were created to offer insights into different facets of the data science job market:
 
 1. **WordCloud for In-Demand Skills:**
