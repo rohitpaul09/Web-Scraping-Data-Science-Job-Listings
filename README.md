@@ -14,7 +14,7 @@ Various visualizations were created to offer insights into different facets of t
 1. **WordCloud for In-Demand Skills:**
    - **Objective:** Visualize sought-after skills.
    - **Findings:** Python, SQL, Machine Learning, and Data Mining were among the most desired skills.
-<img src="https://drive.google.com/uc?id=1wmZRzNTW0Y4g3rySe8YlyR52bMKCD2Ux" alt="WordCloud" width="400" height="300">
+<img src="https://drive.google.com/uc?id=15J2ozsodqcUJXc-qA6tSVSfz1RjmcVSt" alt="WordCloud" width="400" height="300">
 
 
 2. **Top Cities with Most Job Openings:**
