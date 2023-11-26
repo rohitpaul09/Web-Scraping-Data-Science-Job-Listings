@@ -1,6 +1,6 @@
 # Web-Scraping-Data-Sciecne-Job-Listings
 
-The primary goal was to develop an intelligent tool simplifying the search for data science jobs. This involved utilizing web scraping to gather job listings from the TimesJobs website, extracting crucial details, and presenting insights through visualizations. The overall objective was to aid individuals in navigating the data science job market while keeping professionals, job seekers, and recruiters informed about industry trends.
+The primary goal is to develop an intelligent tool that streamlines data science job searches by utilizing web scraping on the Jobs website. Through the extraction of key details and the presentation of insights via visualizations, the tool aims to assist individuals in navigating the data science job market. It also keeps professionals, job seekers, and recruiters well-informed about industry trends.
 
 **Web Scraping:**
 The project began with web scraping job listings from the TimesJobs website. The Python code utilized the BeautifulSoup library to extract relevant details from the job listings, including job title, company name, skills required, posting time, location, and salary. The scraping process involved iterating through multiple pages of job listings, refining the extraction process, and handling diverse data structures on the website.
