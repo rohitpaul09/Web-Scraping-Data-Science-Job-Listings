@@ -6,7 +6,7 @@ The primary goal was to develop an intelligent tool simplifying the search for d
 The project began with web scraping job listings from the TimesJobs website. The Python code utilized the BeautifulSoup library to extract relevant details from the job listings, including job title, company name, skills required, posting time, location, and salary. The scraping process involved iterating through multiple pages of job listings, refining the extraction process, and handling diverse data structures on the website.
 
 **Data Cleaning and Transformation:**
-Following data extraction, the code applied techniques like strip() and replace() to organize the data systematically using the pandas library. Custom functions ensured a clean extraction of salary information, handling variations like 'Lacs,' and refining experience data for consistency. The extracted data was organized into a DataFrame using the pandas library, providing a structured format for analysis.
+Following data extraction, the code applied techniques like strip() and replace() to organize the data systematically using the pandas library. Custom functions ensured a clean extraction of salary information, handling variations like 'Lacs,' and refining experience data for consistency. 
 
 **Visualization/EDA (Exploratory Data Analysis):**
 Various visualizations were created to offer insights into different facets of the data science job market:
