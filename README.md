@@ -57,8 +57,8 @@ Various visualizations were created to offer insights into different facets of t
 <img src="https://drive.google.com/uc?id=1XiHRNvI4KmQ9c8aIiOnBuLZ3MCWWhj46" alt="Salary and Experience" width="400" height="300">
 
 10. **Correlation Heatmap:**
-   - **Objective:** To assess the correlation between salary and the required experience in the job market.
-   - **Findings:** A correlation of 0.75 suggests a moderately strong positive relationship between Average Salary and Average Experience. It means that, on average, as the years of experience increase, the corresponding average salary tends to increase by a considerable amount, and vice versa.
+    - **Objective:** To assess the correlation between salary and the required experience in the job market.
+    - **Findings:** A correlation of 0.75 suggests a moderately strong positive relationship between Average Salary and Average Experience. It means that, on average, as the years of experience increase, the corresponding average salary tends to increase by a considerable amount, and vice versa.
 <img src="https://drive.google.com/uc?id=1kd47tXWJsgRdlCUA3AqeERelBzNR-6zh" alt="Salary and Experience" width="400" height="300">
 
 In conclusion, the project created a valuable tool for comprehending data science job opportunities. By extracting data from the website and employing visualizations, it offered beneficial insights for professionals, job seekers, and recruiters in the dynamic field of data science. It is important to note that these insights are derived from a snapshot of data and may evolve with real-time updates.
