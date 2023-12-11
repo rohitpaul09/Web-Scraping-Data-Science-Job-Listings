@@ -64,3 +64,9 @@ Various visualizations were created to offer insights into different facets of t
 In conclusion, the project created a valuable tool for comprehending data science job opportunities. By extracting data from the website and employing visualizations, it offered beneficial insights for professionals, job seekers, and recruiters in the dynamic field of data science. It is important to note that these insights are derived from a snapshot of data and may evolve with real-time updates.
 
 For any feedback, feel free to contact me at rohitpaul09@gmail.com.
+
+
+</a>
+<a href="https://youtu.be/aqR34-QnqsU?si=97fVa6dGnAFDuvID" target="_blank">
+<img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>  
